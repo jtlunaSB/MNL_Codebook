@@ -328,6 +328,10 @@ Counting rules for rewards and punishments will also follow the established norm
 > [!CAUTION]
 > Unlike the major/minor rewards which were mutually exclusive, specific reward categories might overlap. For instance, an instrumental reward (receiving a cape item in Minecraft) is also a status reward (the cape carries status), or a social reward (a pleasant, interactive conversation with an AI in a TellTale game) may count as an instrumental reward (raising "relationship points" with the associated character).
 
+##### Reward-Opportunities
+
+Not recieving a reward does not automatically count as a punishment. A punishment is not the negation of a reward, rather, it _adds_ something which the player would _not_ want to happen.
+
 ---
 
 ### Instrumental Rewards
@@ -364,41 +368,6 @@ Counting rules for rewards and punishments will also follow the established norm
 
 > [!WARNING]
 > Many games feature the defeating of enemies. The *remove* of an adverse stimulus (including an enemy) does not neccesarily constitude an instrumental reward. However, many co-occuring events (e.g. unlocking an achievement, gaining an item, level experience) upon defeating an enemy *will* count as instrumental rewards. 
-
----
-
-### Experiential Rewards
-
-**Definition:**
-
-Events which could lead to enjoyment, novelty, or flow state arising from player mastery and improvisation, including emergent gameplay (unexpected, unscripted experiences).
-
-**Coding Criteria:**
-
-- Record when player commentary or behavior indicates fun derived from novelty, mastery, or emergent play
-- Record victories wherever they occur
-
-<details>
-<summary><b>Popular Game Examples:</b></summary>
-  
-| Genre | Example Game | Event / Trigger |
-|-------|--------------|------------------|
-| MMORPG | World of Warcraft | |
-| Strategy | Clash of Clans | Winning a war |
-| Action RPG | Hogwarts Legacy | Using environment to defeat an enemy |
-| Social/Party | Fall Guys | Pushing a player off of the map |
-| Sandbox | Minecraft | Creating structures |
-| Card Battle | Pokémon TCG Pocket | |
-| Turn-Based RPG | Honkai: Star Rail | |
-| Management Simulation | Stardew Valley | Leveling up a skill to level 10 |
-| Shooter / Battle Royale | Fortnite | Winning as the last team member |
-| Open-World | The Legend of Zelda: Breath of the Wild | |
-| Puzzle / Casual | Plants vs. Zombies | |
-| Racing | Mario Kart | Comeback from being behind in the race |
-| Romance Simulation | Love in Deep Space | |
-| MOBA | League of Legends | Winning a match |
-
-</details>
 
 ---
 
@@ -445,19 +414,19 @@ Fulfilling interactions, recognition, or bonding with other players or character
 
 **Definition:**
 
-Advancement of authored or emergent stories, including positive moments where a player is being spoken to by a non-player character.
+Advancement of authored or emergent stories progressed by the player, including positive moments where a player is being spoken to by a non-player character.
 
 **Coding Criteria:**
 
-- Record when milestone story progression or storytelling occurs, either from scripted events or player recounts
-- Record when the player recieves (when lacking player-character [avatar]) verbal/narrative positive reinforcement from the game/in-game non-player characters 
+- Record when milestone story progression or storytelling occurs as a result of player actions, either from scripted events or player recounts
+- Record when the player recieves (when lacking player-character [avatar]) verbal/narrative positive reinforcement from non-player characters 
 
 <details>
 <summary><b>Popular Game Examples:</b></summary>
 
 | Genre | Example Game | Event / Trigger |
 |-------|--------------|------------------|
-| MMORPG | World of Warcraft | Completing a story-quest |
+| MMORPG | World of Warcraft |  |
 | Strategy | Clash of Clans | “Good job, chief!” announcements from Villager |
 | Action RPG | Hogwarts Legacy | Audio/journal entries |
 | Social/Party | Fall Guys | Retelling a PVP encounter between players |
@@ -483,7 +452,7 @@ Advancement of authored or emergent stories, including positive moments where a 
 
 **Definition:**
 
-Signals of prestige or skill visible to others or as a part of the player-character or player-profile.
+Signals of prestige or skill visible to others or as a part of the player-character or player-profile. Or, signals of prestige in comparison to others.
 
 **Coding Criteria:**
 
@@ -514,15 +483,54 @@ Signals of prestige or skill visible to others or as a part of the player-charac
 
 ---
 
-### Material Punishments
+### Systemic Rewards
 
 **Definition:**
 
-Direct loss of in-game items, progress, health, or resources.
+Player-directed non-tangible nor quantifiable positive reinforcement originating from no characterized source.
 
 **Coding Criteria:**
 
-- Record loss of quantifiable items, rewards, status (health), or progress
+- Record victory **screens** wherever they occur
+- Record victory **sounds** where they occur in isolation of a specific source (e.g. the video game itself says "Nice!" after winning)
+- Record any instance in the game reinforces a behavior (e.g. winning) through means which are neither quantified (counted; e.g. levels) nor tangible (instrumental gain of _something_; e.g. achievements)
+
+<details>
+<summary><b>Popular Game Examples:</b></summary>
+  
+| Genre | Example Game | Event / Trigger |
+|-------|--------------|------------------|
+| MMORPG | World of Warcraft | |
+| Strategy | Clash of Clans |  |
+| Action RPG | Hogwarts Legacy |  |
+| Social/Party | Fall Guys |  |
+| Sandbox | Minecraft |  |
+| Card Battle | Pokémon TCG Pocket | |
+| Turn-Based RPG | Honkai: Star Rail | |
+| Management Simulation | Stardew Valley |  |
+| Shooter / Battle Royale | Fortnite |  |
+| Open-World | The Legend of Zelda: Breath of the Wild | |
+| Puzzle / Casual | Plants vs. Zombies | |
+| Racing | Mario Kart | High-beat music when winning a race |
+| Romance Simulation | Love in Deep Space | |
+| MOBA | League of Legends |  |
+
+</details>
+
+> [!TIP]
+> This category does not neccesarily refer to game elements _responding_ to the player; for instance enemy deaths would **not** be coded because those originate from a source (the enemy)
+
+---
+
+### Instrumental Punishments
+
+**Definition:**
+
+*Tangible* in-game items or markers of loss (e.g. Direct loss of in-game items, health, or resources.) 
+
+**Coding Criteria:**
+
+- Record loss of quantifiable items, rewards, status (health)
 
 <details>
 <summary><b>Popular Game Examples:</b></summary>
@@ -549,40 +557,8 @@ Direct loss of in-game items, progress, health, or resources.
 > [!IMPORTANT]
 > Does not include transactional events where materials are expended for their intended purpose (e.g. gold/currency is intended to be spent; HP/hit points are not intended to be lost).
 
----
-
-### Experiential Punishments
-
-**Definition:**
-
-Negative play experiences that disrupt flow or cause frustration.
-
-**Coding Criteria:**
-
-- Code when frustration is evident in player action or commentary
-- Code “grind” or time-consuming, monotonous actions for static rewards
-
-<details>
-<summary><b>Popular Game Examples:</b></summary>
-
-| Genre | Example Game | Event / Trigger |
-|-------|--------------|------------------|
-| MMORPG | World of Warcraft | |
-| Strategy | Clash of Clans | |
-| Action RPG | Hogwarts Legacy | |
-| Social/Party | Fall Guys | |
-| Sandbox | Minecraft | |
-| Card Battle | Pokémon TCG Pocket | |
-| Turn-Based RPG | Honkai: Star Rail | |
-| Management Simulation | Stardew Valley | |
-| Shooter / Battle Royale | Fortnite | |
-| Open-World | The Legend of Zelda: Breath of the Wild | |
-| Puzzle / Casual | Plants vs. Zombies | |
-| Racing | Mario Kart | |
-| Romance Simulation | Love in Deep Space | |
-| MOBA | League of Legends | |
-
-</details>
+> [!WARNING]
+> Does not include loss of non-tangible **player progress**; progress loss can be identified through the measurement of punishments as a whole and, thus, is not coded
 
 ---
 
@@ -625,15 +601,92 @@ Negative or hostile interactions with other players.
 
 ---
 
+### Narrative Punishments
+
+> [!WARNING]
+> Because the advancement of a narrative cannot go backward (with the exception of progress loss, whihc is not coded), the story-narrative portion of Narrative Rewards is not included in Narrative Punishments
+
+**Definition:**
+
+Negative moments where a player is being spoken to by a non-player character.
+
+**Coding Criteria:**
+
+- Record when the player recieves (when lacking player-character [avatar]) verbal/narrative negative reinforcement from non-player characters 
+
+<details>
+<summary><b>Popular Game Examples:</b></summary>
+
+| Genre | Example Game | Event / Trigger |
+|-------|--------------|------------------|
+| MMORPG | World of Warcraft |  |
+| Strategy | Clash of Clans |  |
+| Action RPG | Hogwarts Legacy |  |
+| Social/Party | Fall Guys |  |
+| Sandbox | Minecraft |  |
+| Card Battle | Pokémon TCG Pocket |  |
+| Turn-Based RPG | Honkai: Star Rail |  |
+| Management Simulation | Stardew Valley |  |
+| Shooter / Battle Royale | Fortnite |  |
+| Open-World | The Legend of Zelda: Breath of the Wild |  |
+| Puzzle / Casual | Plants vs. Zombies |  |
+| Racing | Mario Kart | |
+| Romance Simulation | Love in Deep Space | |
+| MOBA | League of Legends | |
+
+</details>
+
+> [!TIP]
+> "Milestone" refers to the onset of a narrative event (e.g. a cutscene) or the outcome of a narrative event (e.g. marked conclusion of a story quest)
+
+---
+
+### Status Punishments
+
+**Definition:**
+
+Signals of shame visible to others or as a part of the player-character or player-profile. Or, signals of prestige in comparison to others.
+
+**Coding Criteria:**
+
+- Record whenever a player-character loses an item explicitly tied to prestige
+- Record whenever a player loses a rank/title explicitly tied to prestige
+
+<details>
+<summary><b>Popular Game Examples:</b></summary>
+
+| Genre | Example Game | Event / Trigger |
+|-------|--------------|------------------|
+| MMORPG | World of Warcraft |  |
+| Strategy | Clash of Clans |  |
+| Action RPG | Hogwarts Legacy |  |
+| Social/Party | Fall Guys |  |
+| Sandbox | Minecraft |  |
+| Card Battle | Pokémon TCG Pocket |  |
+| Turn-Based RPG | Honkai: Star Rail |  |
+| Management Simulation | Stardew Valley |  |
+| Shooter / Battle Royale | Fortnite |  |
+| Open-World | The Legend of Zelda: Breath of the Wild |  |
+| Puzzle / Casual | Plants vs. Zombies |  |
+| Racing | Mario Kart | Obtaining bottom rank on leaderboards |
+| Romance Simulation | Love in Deep Space | |
+| MOBA | League of Legends | |
+
+</details>
+
+---
+
 ### Systemic Punishments
 
 **Definition:**
 
-Game-imposed consequences for specific mechanics.
+Player-directed non-tangible nor quantifiable discouragement of behavior originating from no characterized source.
 
 **Coding Criteria:**
 
-- Code when the system enforces restrictions or penalties by design
+- Record loss **screens** wherever they occur
+- Record loss **sounds** where they occur in isolation of a specific source
+- Record any instance in the game enforces restrictions or penalties through means which are neither quantified (counted; e.g. levels) nor tangible (instrumental gain of _something_; e.g. achievements)
 
 <details>
 <summary><b>Popular Game Examples:</b></summary>
@@ -655,10 +708,11 @@ Game-imposed consequences for specific mechanics.
 | Romance Simulation | Love in Deep Space | |
 | MOBA | League of Legends | |
 
+</details>
+
 > [!TIP]
 > In many games' cases, the most popular manifestation of this will be player-character death by loss of hit points (the consequence is death -an obvious punishment- the game system is hit points).
-
-</details>
+> At these moments, the game is telling the player "Do not do this / Do not let this happen"
 
 ---
 
