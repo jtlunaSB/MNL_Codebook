@@ -328,7 +328,7 @@ Counting rules for rewards and punishments will also follow the established norm
 > [!CAUTION]
 > Unlike the major/minor rewards which were mutually exclusive, specific reward categories might overlap. For instance, an instrumental reward (receiving a cape item in Minecraft) is also a status reward (the cape carries status), or a social reward (a pleasant, interactive conversation with an AI in a TellTale game) may count as an instrumental reward (raising "relationship points" with the associated character).
 
-##### Reward-Opportunities
+#### Reward-Opportunities
 
 Not recieving a reward does not automatically count as a punishment. A punishment is not the negation of a reward, rather, it _adds_ something which the player would _not_ want to happen.
 
