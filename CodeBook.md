@@ -332,6 +332,9 @@ Counting rules for rewards and punishments will also follow the established norm
 
 Not recieving a reward does not automatically count as a punishment. A punishment is not the negation of a reward, rather, it _adds_ something which the player would _not_ want to happen.
 
+#### Simultaneity of Events
+If event A (e.g. first barrel breaks) is still occurring (visual, audio) while event B (e.g. second barrel breaks) begins OR if event A concludes with the beginning of event B (e.g. first-into-second level-up), then these same-type events are counted as one minor reward.
+
 ---
 
 ### Instrumental Rewards
@@ -501,7 +504,7 @@ Player-directed non-tangible nor quantifiable positive reinforcement originating
 | Genre | Example Game | Event / Trigger |
 |-------|--------------|------------------|
 | MMORPG | World of Warcraft | |
-| Strategy | Clash of Clans |  |
+| Strategy | Clash of Clans | Opening mail with rewards (see note below) |
 | Action RPG | Hogwarts Legacy |  |
 | Social/Party | Fall Guys |  |
 | Sandbox | Minecraft |  |
@@ -519,6 +522,9 @@ Player-directed non-tangible nor quantifiable positive reinforcement originating
 
 > [!TIP]
 > This category does not neccesarily refer to game elements _responding_ to the player; for instance enemy deaths would **not** be coded because those originate from a source (the enemy)
+
+> [!TIP]
+> Non-characterized mail: The rewards themselves may still be instrumental, but opening mail with reward would also, in this case, be systemic due to a reward (getting anything) originating from the game itself
 
 ---
 
@@ -674,6 +680,9 @@ Signals of shame visible to others or as a part of the player-character or playe
 
 </details>
 
+> [!WARNING]
+> Player-environments (e.g. base in Clash of Clans or similar base-building mobile games) are not to be confused with 'player-character' or 'player-profile'
+
 ---
 
 ### Systemic Punishments
@@ -713,6 +722,14 @@ Player-directed non-tangible nor quantifiable discouragement of behavior origina
 > [!TIP]
 > In many games' cases, the most popular manifestation of this will be player-character death by loss of hit points (the consequence is death -an obvious punishment- the game system is hit points).
 > At these moments, the game is telling the player "Do not do this / Do not let this happen"
+
+---
+
+---
+
+## Loot Boxes
+
+**Definition**: Receiving a mystery reward with the potential of getting something highly valuable. Randomization of the value of the reward. These are often containerized like in a chest or box with mystery objects inside. But this could also be as simple as flipping cards which hide the value of the reward.
 
 ---
 
