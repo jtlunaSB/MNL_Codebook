@@ -323,7 +323,10 @@ The distinction between major and minor will follow the established norms; see t
 
 #### Counting
 
-Counting rules for rewards and punishments will also follow the established norms, see **counting rules** above. Briefly, distinct-types of minor events are counted independently, same-types of minor events are counted holistically, opponent achievements are counted as player punishments, major rewards/punishments supersede minor, and threshold/terminal events qualify as major.
+Counting rules for rewards and punishments will also follow the established norms, see **counting rules** above. Briefly, distinct-types of minor events are counted independently, same-types of minor events are counted holistically, opponent achievements are counted as player punishments, major rewards/punishments supersede minor.
+
+> [!CAUTION]
+> MNL RAs: 4+ minor rewards/punishments DO NOT SUM into a major reward in our current codebook
 
 > [!CAUTION]
 > Unlike the major/minor rewards which were mutually exclusive, specific reward categories might overlap. For instance, an instrumental reward (receiving a cape item in Minecraft) is also a status reward (the cape carries status), or a social reward (a pleasant, interactive conversation with an AI in a TellTale game) may count as an instrumental reward (raising "relationship points" with the associated character).
@@ -378,12 +381,13 @@ If event A (e.g. first barrel breaks) is still occurring (visual, audio) while e
 
 **Definition:**
 
-Fulfilling interactions, recognition, or bonding with other players or characters.
+Fulfilling interactions, recognition, or bonding with other players or characters or originating _contextually_ from another player. Being in a favorable position during downward social comparison.
 
 **Coding Criteria:**
 
 - Record when cooperative behavior is acknowledged (e.g. “Nice work!”) or social bonds are strengthened (new friends added)
 - Record when social defeat of an opponent player is made evident from the opponent player
+- Record when a player achieves victory against another player
 - Record when a player has a positive interaction mediated through their in-game avatar (player character)
 
 <details>
@@ -490,7 +494,7 @@ Signals of prestige or skill visible to others or as a part of the player-charac
 
 **Definition:**
 
-Player-directed non-tangible nor quantifiable positive reinforcement originating from no characterized source.
+Player-directed non-tangible nor quantifiable positive reinforcement for engaging with the game originating from no contextually reasonable source. A _contextually reasonable source_ refers to a source that exists as a feature of the environment of the video game (e.g. characters; subsequently, mail from a character is typified as a narrative -not systemic- reward).
 
 **Coding Criteria:**
 
@@ -572,12 +576,13 @@ Player-directed non-tangible nor quantifiable positive reinforcement originating
 
 **Definition:**
 
-Negative or hostile interactions with other players.
+Negative or hostile interactions with other players. Being in a disfavorable position during downward social comparison.
 
 **Coding Criteria:**
 
 - Record when an interaction results in reported harassment, betrayal, or evidence of social harm
 - Record when social defeat of the player is made evident from the player (e.g. negative emote)
+- Record when a player suffers a defeat against another player
 - Record when a player has a negative interaction mediated through their in-game avatar (player character)
 
 <details>
