@@ -494,7 +494,7 @@ Signals of prestige or skill visible to others or as a part of the player-charac
 
 **Definition:**
 
-Player-directed non-tangible nor quantifiable positive reinforcement for engaging with the game originating from no contextually reasonable source. A _contextually reasonable source_ refers to a source that exists as a feature of the environment of the video game (e.g. characters; subsequently, mail from a character is typified as a narrative -not systemic- reward).
+Player-directed non-tangible nor quantifiable positive reinforcement for engaging with the game originating from no contextually reasonable source (i.e. 'the game'). A _contextually reasonable source_ refers to a source that exists as a feature of the environment of the video game (e.g. characters; subsequently, mail from a character is typified as a narrative -not systemic- reward).
 
 **Coding Criteria:**
 
