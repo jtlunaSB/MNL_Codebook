@@ -740,6 +740,14 @@ Player-directed non-tangible nor quantifiable discouragement of behavior origina
 
 ---
 
+## Transactions
+
+**Definition**: A purposeful exchange of a quantity for _anything_. (E.g. leveling-up in many games requires spending materials to increases characters' level; many mobile games use 'gems' or similar paid/premium currency to exchange for various items). Transactions **do not** include freely-given quantities which refresh on a known cycle (E.g. Once-per-day free loot-box pulls in some video games)
+
+---
+
+---
+
 ## Rewards
 
 In game markers or progression marker gained from an activity that brings about positive feelings and reinforces behaviors
