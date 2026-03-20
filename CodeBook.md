@@ -734,7 +734,23 @@ Player-directed non-tangible nor quantifiable discouragement of behavior origina
 
 ## Loot Boxes
 
-**Definition**: Receiving a mystery reward with the potential of getting something highly valuable. Randomization of the value of the reward. These are often containerized like in a chest or box with mystery objects inside. But this could also be as simple as flipping cards which hide the value of the reward.
+A mechanism for obtaining randomized, mystery rewards from a pool of rewards, with the potential of getting something highly valuable. Loot boxes are characterized by the presentation of a mystery outcome.
+
+**Definitions**:
+1. Mystery: Randomized vs Unknown: If another player reproduced the exact same set of circumstances, would they get the same outcome? If Yes, then the mystery outcome is _unknown_, if No, then the mystery outcome is _random_; ‘unknown’ is not sufficient for loot box classification
+2. Presentation: The name ‘loot box’ was derived from gamer-culture in which, within popular games, loot boxes came from virtual, in-game crates/containers with randomized rewards; thus, the presentation of the reward characterizes a lootbox, such as how flipping cards visualizes loot boxes in Last War: Survival Game or how opening a treasure chest visualizes loot boxes in Vampire Survivors
+
+<details>
+<summary><b>Vampire Survivors</b></summary>
+
+| Teir | Desription | Example |
+|-------|--------------|------------------|
+| 1 | One item | [YouTube Short](https://www.youtube.com/shorts/KgKqjrhJ8fY) |
+| 2 | Three items | [YouTube Short](https://www.youtube.com/shorts/3Uc0_yOjAQM) |
+| 3 | Five items | [YouTube Short](https://www.youtube.com/shorts/PJlmB8hBqAM) |
+
+</details>
+
 
 ---
 
@@ -742,7 +758,13 @@ Player-directed non-tangible nor quantifiable discouragement of behavior origina
 
 ## Transactions
 
-**Definition**: A purposeful exchange of a quantity for _anything_. (E.g. leveling-up in many games requires spending materials to increases characters' level; many mobile games use 'gems' or similar paid/premium currency to exchange for various items). Transactions **do not** include freely-given quantities which refresh on a known cycle (E.g. Once-per-day free loot-box pulls in some video games)
+A purposeful exchange of a quantity for anything enduring or progression-related. (E.g. leveling-up in many games requires spending materials to increase characters' level; many mobile games use 'gems' or similar paid/premium currency to exchange for various items). Transactions _do not_ include freely-given quantities which refresh on a known cycle (E.g. Once-per-day free loot-box pulls in some video games)
+
+**Definitions**:
+1. Purposeful: Initiated by the player, the player can choose to or not to transact
+2. Quantity: An enduring or refreshing resource which can increase or decrease in sum
+3. Anything: Enduring returns (eg. A pokemon move costs PP but the outcome isn’t enduring, it’s instantaneous damage that lasts for only a battle (or less time))
+
 
 ---
 
