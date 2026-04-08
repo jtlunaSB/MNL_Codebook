@@ -16,8 +16,8 @@ This guide will list the following for each relevant category (Instrumental and 
 
 1. A specific of the reward/punishment
 2. An instance within the game
-2. A rule for counting
-3. Citation from the [codebook](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md) while being **specific** to the game of interest (Vampire Survivors), justifying the rule
+3. A rule for counting
+4. Citation from the [codebook](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md) while being **specific** to the game of interest (Vampire Survivors), justifying the rule
 
 ## Definitions
 **Individualized**: Refers to something which is coded as 1 reward/punishment per instance
