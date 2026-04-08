@@ -32,10 +32,10 @@ This guide will list the following for each relevant category (Instrumental and 
 | Sequential defeat of enemies resulting in score increase | Occurs 3 times in Video 1, 0:12-0:15 | Count each **_sequential_** instance as 1 minor reward (so 3 minor total here as well) | [Simultaneity of Events](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md#simultaneity-of-events) descibes that if same-type event A (Counter increasing as 1st bat dies) concludes with the begining of event B (Counter increasing as 2nd bat dies) then these are counted as 1 minor reward |
 | Individualized obtaining of gem (and experience bar increase) | Occurs 3 times in Video 2, 0:50-0:55 | Count each instance as 1 minor reward (so 3 minor total here) | [Instrumental Rewards](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md#instrumental-rewards:~:text=one%20minor%20reward.-,Instrumental%20Rewards,-Definition%3A) describes quantifiable markers of progression |
 | Sequential obtaining of gems (and experience bar increase) | Occurs 1 time in Video 1, 2:54-2:57 | Count all gems obtained as 1 minor reward; gems may be considered sequential if they are, _without interruption_, floating toward the player | [Simultaneity of Events](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md#simultaneity-of-events) descibes that if same-type event A (gem 1 floating toward player) concludes or co-occurs with the begining of event B (gem 2 floating toward player) then these are counted as 1 minor reward |
-| Sequential obtaining of gems (and experience bar increase) (Large screen change) | Count all gems obtained as 1 Major reward |  |  |
+| Sequential obtaining of gems (and experience bar increase) (Large screen change) | Occurs in Video 1, 11:15 | Count all gems obtained as 1 Major reward | [Simultaneity of Events](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md#simultaneity-of-events) allows for sequential events to be counted as 1 event, a [large screen change is Major](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md#major-rewards), thus, a series of simultaneuos events with a sufficiently large screen change is Major |
 | Level-Up |  |  | The reason this is not systemic is because [Systemic Rewards](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md#systemic-rewards) are, definitionally, non-quantifiable (antithetical to leveling up in a video game) |
-| Gain of a weapon (e.g. from Level-Up) |  |  |  |
-| Gain of a non-gem item |  |  |  |
+| Gain of a weapon (e.g. from Level-Up) |  | Count as 1 major/minor reward |  |
+| Gain of a non-gem item |  | Count as 1 minor reward unless the ensuing screen change is large (e.g. Pentagram) |  |
 | Gain of loot box |  | Count intial onset of screen change as 1 Major reward  |  |
 | Gain of a weapon (loot box specific) |  | Count all weapons gained, no matter quantity, as 1 minor reward _at the end_ of the animation |  |
 | Gain of coins (loot box specific) |  | Count entire duration of coin increase as 1 'running' minor reward | [Simultaneity of Events](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md#simultaneity-of-events) captures sequential events |
@@ -48,7 +48,7 @@ This guide will list the following for each relevant category (Instrumental and 
 
 | Reward | video + Time point | Counting Rule | Codebook Justification |
 |-------|--------------|------------------|-----------------------------|
-|  |  | [Loot obtained from defeating enemies](https://www.youtube.com) |  |
+| Individualized gain of 4th weapon choice upon Level-Up | Occurs in Video 1, 7:30 | Count additional weapon choice as 1 minor reward at the time it appears on screen | A single additional choice is, like all [Systemic Rewards](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md#systemic-rewards), non-quantifiable; nor does this originate from a source other than luck |
 |  |  |  |  |
 
 ## Instrumental Punishments
