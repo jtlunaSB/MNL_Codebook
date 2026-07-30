@@ -2,8 +2,8 @@
 
 ![MNL_logo](https://github.com/jtlunaSB/Record/blob/main/MNL.png)
 
-## Purpose
-To test something
+## testing something again
+did this work?
 
 ## Purpose
 Provide coders with an expiditious way to code the videos that remains **wholly** grounded in the [codebook](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md) while being **specific** to the game of interest (Vampire Survivors). To that extent, this guide will exhaustively classify specific instances of rewards and punishments in the video game Vampire Survivors, define counting strategies for these rewards, and reference the [codebook](https://github.com/jtlunaSB/MNL_Codebook/blob/main/CodeBook.md) with explicit reasons for each categorization and counting rule. Vampire Suvivors is a **_real time_** video game; unlike turn-based strategy games, it must be coded with real time actions and events in mind.
